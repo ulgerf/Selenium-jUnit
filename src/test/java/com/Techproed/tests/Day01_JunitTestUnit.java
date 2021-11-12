@@ -1,4 +1,4 @@
-package com.Techproed;
+package com.Techproed.tests;
 
 import org.junit.*;
 
